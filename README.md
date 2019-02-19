@@ -1,1 +1,1 @@
-# UniversityAddmissions
+# University Addmissions Prediction
