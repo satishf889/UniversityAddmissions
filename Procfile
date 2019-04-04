@@ -1,1 +1,1 @@
-web: gunicorn admission:app
+web: python app:app
